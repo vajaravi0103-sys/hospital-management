@@ -42,6 +42,7 @@ public class Search extends JFrame {
         panel.add(c1);
 
         
+        
         JTable tabel = new JTable();
         tabel.setBounds(0,187,700,210);
         tabel.setBackground(new Color(90,156,163));
